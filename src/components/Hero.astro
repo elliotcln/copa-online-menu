@@ -1,0 +1,23 @@
+---
+export interface Props {
+    title: String,
+    subtitle: String
+}
+
+const { title, subtitle } = Astro.props;
+---
+
+<div class="hero">
+    <!-- <img src="carte-postale-saint-briac-sur-mer-74898.jpg" alt="" class="absolute inset-0 object-cover opacity-20"> -->
+    <div class="container relative">
+        <img src="hot-dog.png" alt="" class="h-40 transform rotate-12">
+        <h1 class="text-5xl lg:text-7xl font-title font-bold">{title}</h1>
+        <h2 class="text-xl text-primary">{subtitle}</h2>
+    </div>
+</div>
+
+<style lang="scss" scoped>
+    .hero {
+        @apply relative h-screen w-full overflow-hidden  flex items-end pb-20;
+    }
+</style>

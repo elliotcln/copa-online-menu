@@ -1,0 +1,237 @@
+[
+  {
+    "title": "Les brunchs",
+    "plates": [
+      {
+        "title": "Le Frenchie",
+        "desc": "1 viennoiserie, 1/2 de baguette (beurre/confiture ou pâte à tartiner)",
+        "price": 6
+      },
+      {
+        "title": "Ker' Granola",
+        "desc": "Yaourt à la Grecque ou Coco, fruits frais, granola",
+        "price": 8,
+        "options": {
+          "isVege": true,
+          "isVegan": true,
+          "isGF": true
+        }
+      },
+      {
+        "title": "Les œufs du château",
+        "desc": "2 œufs bénédicte, 2 toasts, saumon fumé ou bacon grillé, sauce Hollandaise",
+        "price": 11
+      },
+      {
+        "title": "La Petite Salinette",
+        "desc": "1 œuf bénédicte, 1 toast, saumon fumé ou 1⁄2 saucisse / bacon grillé, haricots rouges, avocat, röstis",
+        "price": 14
+      },
+      {
+        "title": "La Grande Salinette",
+        "desc": "2 œufs bénédicte, 2 toast, saumon fumé ou 1 saucisse / bacon grillé, haricots rouges, avocat, röstis",
+        "price": 14
+      }
+    ],
+    "infos": "Service jusqu'à 13H00"
+  },
+  {
+    "title": "Les salades",
+    "plates": [
+      {
+        "title": "La végétarienne",
+        "desc": "Légumes confits, fromage frais, crudités, noix, pesto",
+        "price": 13,
+        "options": {
+          "isVege": true,
+          "isGF": true
+        }
+      },
+      {
+        "title": "La César",
+        "desc": "Poulet fermier, parmesan, sauce césar, croutons",
+        "price": 14
+      },
+      {
+        "title": "Le Poke Bowl",
+        "desc": "Saumon / Tofu, Riz / Quinoa, concombre, radis, avocat, carottes, mix de graines, fromage frais, fèves",
+        "price": 15,
+        "options": {
+          "isVegan": true,
+          "isGF": true
+        }
+      }
+    ]
+  },
+  {
+    "title": "Les sandwichs",
+    "plates": [
+      {
+        "title": "Le Français",
+        "desc": "Jambon, beurre",
+        "price": 4
+      },
+      {
+        "title": "Le Suisse",
+        "desc": "Jambon, beurre, fromage",
+        "price": "4,50"
+      },
+      {
+        "title": "L'Américain",
+        "desc": "Poulet fermier / Jambon / Thon, oeuf, tomates, salade, mayonnaise maison",
+        "price": "5,50"
+      },
+      {
+        "title": "Le Québécois",
+        "desc": "1/2 baguette, steak haché (VBF), frites, sauce maison",
+        "price": 8
+      },
+      {
+        "title": "Le Chien-chaud",
+        "desc": "Traditionnel hot-dog New-Yorkais",
+        "price": "4,50"
+      },
+      {
+        "title": "Les Co'paninis",
+        "desc": "Jambon / mozzarella\n4 fromages\nSerrano / chèvre / miel\nLégumes grillés / tofu / mozzarella / pesto",
+        "price": "4,50"
+      }
+    ]
+  },
+  {
+    "title": "Les plats",
+    "plates": [
+      {
+        "title": "Le Fish",
+        "desc": "Poisson selon arrivage, façon Fish & Chips",
+        "price": 10
+      },
+      {
+        "title": "Le club-sandwich",
+        "desc": "Poulet, bacon, cheddar, oeuf, tomates",
+        "price": 10
+      },
+      {
+        "title": "Le burger du Béchêt",
+        "desc": "Steak 150g, cheddar, bacon, tomates, oignons, sauce maison",
+        "price": 11
+      }
+    ],
+    "infos": "Portion de frites +4€"
+  },
+  {
+    "title": "À partager",
+    "plates": [
+      {
+        "title": "Tapenade",
+        "price": 5,
+        "options": {
+          "isVege": true
+        }
+      },
+      {
+        "title": "Saucisson",
+        "price": 6
+      },
+      {
+        "title": "Samoussas",
+        "price": 6,
+        "options": {
+          "isVege": true,
+          "isGF": true
+        }
+      },
+      {
+        "title": "Rillettes de maquereaux",
+        "price": 6
+      },
+      {
+        "title": "Avocado toasts",
+        "price": 7
+      },
+      {
+        "title": "Comté 18 mois (150g)",
+        "price": 8
+      },
+      {
+        "title": "Saumon fumé",
+        "price": 8
+      },
+      {
+        "title": "Les fish'sticks",
+        "price": 8
+      },
+      {
+        "title": "Assiette Argoat",
+        "desc": "Rosette, rillette, saucisson au choix, comté, tomates confites",
+        "price": 15
+      },
+      {
+        "title": "Assiette Armor",
+        "desc": "Rillettes de maquereaux, saumon fumé, cruditées, pain nordique, crème de ciboulette au fromage frais, fish’sticks",
+        "price": 15
+      },
+      {
+        "title": "Assiette Glasvez",
+        "desc": "Avocado toasts, tapenade, samoussas, comté, tomates confites, créme ciboulette au fromage frais, concombre/carotte",
+        "price": 15,
+        "options": {
+          "isVege": true
+        }
+      }
+    ]
+  },
+  {
+    "title": "Les desserts",
+    "plates": [
+      {
+        "title": "Eton Mess aux fruits frais",
+        "price": 7
+      }
+    ]
+  },
+  {
+    "title": "Les gaufres & churros",
+    "plates": [
+      {
+        "title": "Sucre",
+        "price": "3,50"
+      },
+      {
+        "title": "Chocolat",
+        "price": 4
+      },
+      {
+        "title": "Caramel au beurre salé",
+        "price": 4
+      },
+      {
+        "title": "Pâte à tartiner",
+        "price": "4,50"
+      },
+      {
+        "title": "Crème de marron",
+        "price": "4,50"
+      }
+    ],
+    "infos": "Supplément chantilly ou éclats de caramel +0,50€"
+  },
+  {
+    "title": "Les glaces artisanales",
+    "plates": [
+      {
+        "title": "1 boule",
+        "price": 3
+      },
+      {
+        "title": "2 boules",
+        "price": "5,50"
+      },
+      {
+        "title": "3 boules",
+        "price": 8
+      }
+    ],
+    "infos": "Parfums : Praliné, vanille, chocolat, caramel au beurre salé, framboise, citron, pêche de vigne, coco"
+  }
+]
