@@ -30,7 +30,7 @@
       {
         "title": "La Grande Salinette",
         "desc": "2 œufs bénédicte, 2 toast, saumon fumé ou 1 saucisse / bacon grillé, haricots rouges, avocat, röstis",
-        "price": 14
+        "price": 18
       }
     ],
     "infos": "Service jusqu'à 13H00"
@@ -94,7 +94,7 @@
       {
         "title": "Les Co'paninis",
         "desc": "Jambon / mozzarella\n4 fromages\nSerrano / chèvre / miel\nLégumes grillés / tofu / mozzarella / pesto",
-        "price": "4,50"
+        "price": "5,50"
       }
     ]
   },
@@ -120,6 +120,16 @@
     "infos": "Portion de frites +4€"
   },
   {
+    "title": "Le menu enfant",
+    "plates": [
+      {
+        "title": "Le menu enfant",
+        "desc": "Jambon / steak haché / fish’sticks, portion de frites, sirop à l’eau, 1 boule de glace",
+        "price": 10
+      }
+    ]
+  },
+  {
     "title": "À partager",
     "plates": [
       {
@@ -142,16 +152,8 @@
         }
       },
       {
-        "title": "Rillettes de maquereaux",
-        "price": 6
-      },
-      {
         "title": "Avocado toasts",
         "price": 7
-      },
-      {
-        "title": "Comté 18 mois (150g)",
-        "price": 8
       },
       {
         "title": "Saumon fumé",
@@ -160,24 +162,6 @@
       {
         "title": "Les fish'sticks",
         "price": 8
-      },
-      {
-        "title": "Assiette Argoat",
-        "desc": "Rosette, rillette, saucisson au choix, comté, tomates confites",
-        "price": 15
-      },
-      {
-        "title": "Assiette Armor",
-        "desc": "Rillettes de maquereaux, saumon fumé, cruditées, pain nordique, crème de ciboulette au fromage frais, fish’sticks",
-        "price": 15
-      },
-      {
-        "title": "Assiette Glasvez",
-        "desc": "Avocado toasts, tapenade, samoussas, comté, tomates confites, créme ciboulette au fromage frais, concombre/carotte",
-        "price": 15,
-        "options": {
-          "isVege": true
-        }
       }
     ]
   },
